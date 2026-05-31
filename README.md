@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Jayden, an experienced Dynamics 365 Developer
+
+📫 How to reach me: [Email me](mailto:jaydenparke92@outlook.com)
+
+---
+
+### 💡 Skills
+
+- **Enterprise Platforms**: Developing scalable solutions for enterprise ecosystems.
+- **Languages**: C#, JavaScript, SQL, XML.
+- **Tools**: XrmToolbox, Plugin Registration, Early Bound Generator v2, Solution Layers Explorer, Environment Variables Manager, SQL 4 CDS.
 
 <!--
 **jayden-quildon-parke/jayden-quildon-parke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
