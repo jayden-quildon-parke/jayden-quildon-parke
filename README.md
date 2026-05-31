@@ -6,10 +6,11 @@
 
 ### 💡 Skills
 
-- **Enterprise Platforms**: Developing scalable solutions for enterprise ecosystems.
-- **Languages**: C#, JavaScript, SQL, XML.
+- **Enterprise Platforms**: Developing scalable solutions for enterprise ecosystems
+- **Platforms**: Power Platform, Dataverse, Power Apps, Model-Driven Apps, Canvas-Driven Apps, Dynamics 365 CRM
+- **Languages**: C#, JavaScript, SQL, XML
 - **IDE**: Visual Studio, Visual Studio Code
-- **Tools**: XrmToolbox, Plugin Registration, Early Bound Generator v2, Solution Layers Explorer, Environment Variables Manager, SQL 4 CDS, Web Resources Updater Extension.
+- **Tools**: XrmToolbox, Plugin Registration, Early Bound Generator v2, Solution Layers Explorer, Environment Variables Manager, SQL 4 CDS, Web Resources Updater Extension
 - **AI**: Claude, Microsoft 365 Copilot
 
 <!--
