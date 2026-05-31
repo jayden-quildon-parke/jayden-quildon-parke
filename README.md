@@ -8,7 +8,9 @@
 
 - **Enterprise Platforms**: Developing scalable solutions for enterprise ecosystems.
 - **Languages**: C#, JavaScript, SQL, XML.
-- **Tools**: XrmToolbox, Plugin Registration, Early Bound Generator v2, Solution Layers Explorer, Environment Variables Manager, SQL 4 CDS.
+- **IDE**: Visual Studio, Visual Studio Code
+- **Tools**: XrmToolbox, Plugin Registration, Early Bound Generator v2, Solution Layers Explorer, Environment Variables Manager, SQL 4 CDS, Web Resources Updater Extension.
+- **AI**: Claude, Microsoft 365 Copilot
 
 <!--
 **jayden-quildon-parke/jayden-quildon-parke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
